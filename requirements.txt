@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+<<<<<<< HEAD
+psycopg2-binary
+python-multipart
+pandas
+python-dotenv
+=======
+pydantic
+>>>>>>> 3fe68f8f36c883a7570764f808a89c61f3ef4a92
